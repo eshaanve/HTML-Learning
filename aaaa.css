@@ -1,0 +1,83 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+#unique-title {
+    color: white;
+    background-color: navy;
+    padding: 10px;
+}
+
+h2 {
+    background-color: lightgray;
+    padding: 5px;
+    color: darkred;
+}
+
+h3 {
+    color: green;
+}
+
+h4 {
+    color: purple;
+}
+
+h5 {
+    color: brown;
+}
+
+h6 {
+    color: orange;
+}
+
+p {
+    font-size: 16px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    background-color: #ddd;
+}
+
+form label {
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+
+input, select {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+button[type="submit"] {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
